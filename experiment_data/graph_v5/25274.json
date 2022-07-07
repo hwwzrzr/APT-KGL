@@ -1,0 +1,2 @@
+{"link": [32428, 4812], "path": ["/var/www/html/web3/WordPress-4.6.18/wp-content/uploads/slideshow-gallery/1"], "label": [["PT6", "PT96", "PT98", "PT97", "PT93", "PT3"], ["FT1", "FT99"]], "type": ["SUBJECT_PROCESS", "EVENT_WRITE", "FILE_OBJECT_FILE"]}
+{"link": [32428, 4812], "path": ["/var/www/html/web3/WordPress-4.6.18/wp-content/uploads/slideshow-gallery/1"], "label": [["PT6", "PT96", "PT98", "PT97", "PT93", "PT3"], ["FT1", "FT99"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}

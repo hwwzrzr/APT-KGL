@@ -1,0 +1,13 @@
+{"link": [13679, 4785], "path": ["/lib64/ld-linux-x86-64.so.2"], "label": [["PT96", "PT97", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_LOADLIBRARY", "FILE_OBJECT_FILE"]}
+{"link": [13679, 4809], "path": ["/bin/cat"], "label": [["PT96", "PT97", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_LOADLIBRARY", "FILE_OBJECT_FILE"]}
+{"link": [13679, 4787], "path": ["/etc/ld.so.cache"], "label": [["PT96", "PT97", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [13679, 4788], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT96", "PT97", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [13679, 4788], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT96", "PT97", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [13679, 4788], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT96", "PT97", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"]}
+{"link": [13679, 15841], "path": "null", "label": [["PT96", "PT97", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [13679, 4788], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT96", "PT97", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [13679, 15842], "path": "null", "label": [["PT96", "PT97", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [13679, 15843], "path": "null", "label": [["PT96", "PT97", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [13679, 15844], "path": "null", "label": [["PT96", "PT97", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [13679, 15845], "path": "null", "label": [["PT96", "PT97", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [13679, 4816], "path": ["/tmp/sh-thd-887644009"], "label": [["PT96", "PT97", "PT3"], ["FT1"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}

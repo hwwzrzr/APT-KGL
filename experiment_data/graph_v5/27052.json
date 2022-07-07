@@ -1,0 +1,11 @@
+{"link": [33645, 5064], "path": ["/proc/sys/kernel/ngroups_max"], "label": [["PT6", "PT97", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [33645, 5064], "path": ["/proc/sys/kernel/ngroups_max"], "label": [["PT6", "PT97", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [33645, 5064], "path": ["/proc/sys/kernel/ngroups_max"], "label": [["PT6", "PT97", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [33645, 137386], "path": "null", "label": [["PT6", "PT97", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [33645, 137387], "path": "null", "label": [["PT6", "PT97", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [33645, 5883], "path": ["/etc/group"], "label": [["PT6", "PT97", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [33645, 5883], "path": ["/etc/group"], "label": [["PT6", "PT97", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"]}
+{"link": [33645, 5883], "path": ["/etc/group"], "label": [["PT6", "PT97", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [33645, 5883], "path": ["/etc/group"], "label": [["PT6", "PT97", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [33645, 5883], "path": ["/etc/group"], "label": [["PT6", "PT97", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"]}
+{"link": [33645, 5883], "path": ["/etc/group"], "label": [["PT6", "PT97", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}

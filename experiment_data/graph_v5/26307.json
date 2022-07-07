@@ -1,0 +1,15 @@
+{"link": [33259, 127684], "path": "null", "label": [["PT2"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [33259, 127686], "path": "null", "label": [["PT2"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [33259, 127687], "path": "null", "label": [["PT2"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [33259, 127688], "path": "null", "label": [["PT2"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [33259, 127689], "path": "null", "label": [["PT2"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [33259, 127690], "path": "null", "label": [["PT2"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [33259, 127691], "path": "null", "label": [["PT2"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [33259, 6996], "path": ["/usr/lib/locale/locale-archive"], "label": [["PT2"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [33259, 6996], "path": ["/usr/lib/locale/locale-archive"], "label": [["PT2"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"]}
+{"link": [33259, 6996], "path": ["/usr/lib/locale/locale-archive"], "label": [["PT2"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [33259, 4804], "path": ["/etc/passwd"], "label": [["PT2"], ["FT2"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [33259, 127693], "path": "null", "label": [["PT2"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [33259, 4804], "path": ["/etc/passwd"], "label": [["PT2"], ["FT2"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [33259, 4804], "path": ["/etc/passwd"], "label": [["PT2"], ["FT2"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [33259, 4804], "path": ["/etc/passwd"], "label": [["PT2"], ["FT2"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}

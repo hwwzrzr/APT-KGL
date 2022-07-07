@@ -1,0 +1,2 @@
+{"link": [21847, 4950], "path": ["/dev/null"], "label": [["PT97", "PT3"], ["FT1"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_CHAR"]}
+{"link": [21847, 4950], "path": ["/dev/null"], "label": [["PT97", "PT3"], ["FT1"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_CHAR"]}

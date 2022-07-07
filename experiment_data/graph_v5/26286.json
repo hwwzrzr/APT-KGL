@@ -1,0 +1,16 @@
+{"link": [33244, 127462], "path": "null", "label": [["PT3", "PT2"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [33244, 127464], "path": "null", "label": [["PT3", "PT2"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [33244, 127466], "path": "null", "label": [["PT3", "PT2"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [33244, 127467], "path": "null", "label": [["PT3", "PT2"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [33244, 127468], "path": "null", "label": [["PT3", "PT2"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [33244, 127469], "path": "null", "label": [["PT3", "PT2"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [33244, 127470], "path": "null", "label": [["PT3", "PT2"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [33244, 127471], "path": "null", "label": [["PT3", "PT2"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [33244, 6996], "path": ["/usr/lib/locale/locale-archive"], "label": [["PT3", "PT2"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [33244, 6996], "path": ["/usr/lib/locale/locale-archive"], "label": [["PT3", "PT2"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"]}
+{"link": [33244, 6996], "path": ["/usr/lib/locale/locale-archive"], "label": [["PT3", "PT2"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [33244, 4804], "path": ["/etc/passwd"], "label": [["PT3", "PT2"], ["FT2"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [33244, 127473], "path": "null", "label": [["PT3", "PT2"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [33244, 4804], "path": ["/etc/passwd"], "label": [["PT3", "PT2"], ["FT2"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [33244, 4804], "path": ["/etc/passwd"], "label": [["PT3", "PT2"], ["FT2"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [33244, 4804], "path": ["/etc/passwd"], "label": [["PT3", "PT2"], ["FT2"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
