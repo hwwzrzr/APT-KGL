@@ -1,0 +1,6 @@
+{"link": [11178, 6927], "path": "null", "label": [["PT97"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"]}
+{"link": [11178, 6928], "path": "null", "label": [["PT97"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"]}
+{"link": [11178, 6928], "path": "null", "label": [["PT97"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"]}
+{"link": [11178, 11179], "path": "null", "label": [["PT97"], ["PT97"]], "type": ["SUBJECT_PROCESS", "EVENT_FORK", "SUBJECT_PROCESS"]}
+{"link": [11178, 6927], "path": "null", "label": [["PT97"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"]}
+{"link": [11178, 6929], "path": "null", "label": [["PT97"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"]}

@@ -1,0 +1,4 @@
+{"link": [1832, 1986], "path": ["/usr/share/man/man3/CRYPTO_set_ex_data.3ssl.gz"], "label": [["PT98", "PT97", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [1832, 1256], "path": "null", "label": [["PT98", "PT97", "PT3"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"]}
+{"link": [1832, 1256], "path": "null", "label": [["PT98", "PT97", "PT3"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"]}
+{"link": [1832, 1832], "path": "null", "label": [["PT98", "PT97", "PT3"], ["PT98", "PT97", "PT3"]], "type": ["SUBJECT_PROCESS", "EVENT_CHANGE_PRINCIPAL", "SUBJECT_PROCESS"]}

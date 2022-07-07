@@ -1,0 +1,9 @@
+{"link": [2354, 2234], "path": ["/tmp/tmp.fk3D4ZODe2/pubring.gpg"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [2354, 2235], "path": ["/tmp/tmp.fk3D4ZODe2/pubring.orig.gpg"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CREATE_OBJECT", "FILE_OBJECT_FILE"]}
+{"link": [2354, 7150], "path": "null", "label": [["PT0"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [2354, 2234], "path": ["/tmp/tmp.fk3D4ZODe2/pubring.gpg"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [2354, 2235], "path": ["/tmp/tmp.fk3D4ZODe2/pubring.orig.gpg"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_WRITE", "FILE_OBJECT_FILE"]}
+{"link": [2354, 2234], "path": ["/tmp/tmp.fk3D4ZODe2/pubring.gpg"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [2354, 2235], "path": ["/tmp/tmp.fk3D4ZODe2/pubring.orig.gpg"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [2354, 2234], "path": ["/tmp/tmp.fk3D4ZODe2/pubring.gpg"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [2354, 2354], "path": "null", "label": [["PT0"], ["PT0"]], "type": ["SUBJECT_PROCESS", "EVENT_EXIT", "SUBJECT_PROCESS"]}

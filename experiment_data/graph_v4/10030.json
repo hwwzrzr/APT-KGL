@@ -1,0 +1,5 @@
+{"link": [9738, 1663], "path": ["/usr/share/man/man3/XEmptyRegion.3.gz"], "label": [["PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [9738, 6051], "path": "null", "label": [["PT97"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"]}
+{"link": [9738, 6051], "path": "null", "label": [["PT97"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"]}
+{"link": [9738, 1663], "path": ["/usr/share/man/man3/XEmptyRegion.3.gz"], "label": [["PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [9738, 1663], "path": ["/usr/share/man/man3/XEmptyRegion.3.gz"], "label": [["PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}

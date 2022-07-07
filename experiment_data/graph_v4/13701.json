@@ -1,0 +1,8 @@
+{"link": [13347, 8234], "path": "null", "label": [["PT3"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"]}
+{"link": [13347, 8234], "path": "null", "label": [["PT3"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"]}
+{"link": [13347, 8235], "path": "null", "label": [["PT3"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"]}
+{"link": [13347, 8235], "path": "null", "label": [["PT3"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"]}
+{"link": [13347, 4680], "path": ["/phpstudy/www/DVWA/"], "label": [["PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_DIR"]}
+{"link": [13347, 4680], "path": ["/phpstudy/www/DVWA/"], "label": [["PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_DIR"]}
+{"link": [13347, 8235], "path": "null", "label": [["PT3"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_WRITE", "IPC_OBJECT_PIPE_UNNAMED"]}
+{"link": [13347, 13347], "path": "null", "label": [["PT3"], ["PT3"]], "type": ["SUBJECT_PROCESS", "EVENT_EXIT", "SUBJECT_PROCESS"]}

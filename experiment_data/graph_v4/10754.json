@@ -1,0 +1,9 @@
+{"link": [10462, 4292], "path": ["/usr/share/man/man3/RSA_generate_key.3ssl.gz"], "label": [["PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [10462, 6494], "path": "null", "label": [["PT97"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"]}
+{"link": [10462, 6494], "path": "null", "label": [["PT97"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"]}
+{"link": [10462, 4292], "path": ["/usr/share/man/man3/RSA_generate_key.3ssl.gz"], "label": [["PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [10462, 4292], "path": ["/usr/share/man/man3/RSA_generate_key.3ssl.gz"], "label": [["PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [10462, 6494], "path": "null", "label": [["PT97"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_WRITE", "IPC_OBJECT_PIPE_UNNAMED"]}
+{"link": [10462, 4292], "path": ["/usr/share/man/man3/RSA_generate_key.3ssl.gz"], "label": [["PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [10462, 6494], "path": "null", "label": [["PT97"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_WRITE", "IPC_OBJECT_PIPE_UNNAMED"]}
+{"link": [10462, 10462], "path": "null", "label": [["PT97"], ["PT97"]], "type": ["SUBJECT_PROCESS", "EVENT_EXIT", "SUBJECT_PROCESS"]}

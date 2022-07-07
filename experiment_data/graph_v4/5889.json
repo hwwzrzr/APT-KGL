@@ -1,0 +1,9 @@
+{"link": [5617, 1831], "path": ["/usr/share/man/man3/j0.3.gz"], "label": [["PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [5617, 3549], "path": "null", "label": [["PT97"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"]}
+{"link": [5617, 3549], "path": "null", "label": [["PT97"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"]}
+{"link": [5617, 1831], "path": ["/usr/share/man/man3/j0.3.gz"], "label": [["PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [5617, 1831], "path": ["/usr/share/man/man3/j0.3.gz"], "label": [["PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [5617, 3549], "path": "null", "label": [["PT97"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_WRITE", "IPC_OBJECT_PIPE_UNNAMED"]}
+{"link": [5617, 1831], "path": ["/usr/share/man/man3/j0.3.gz"], "label": [["PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [5617, 3549], "path": "null", "label": [["PT97"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_WRITE", "IPC_OBJECT_PIPE_UNNAMED"]}
+{"link": [5617, 5617], "path": "null", "label": [["PT97"], ["PT97"]], "type": ["SUBJECT_PROCESS", "EVENT_EXIT", "SUBJECT_PROCESS"]}

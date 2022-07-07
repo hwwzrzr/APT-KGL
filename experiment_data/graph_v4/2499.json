@@ -1,0 +1,22 @@
+{"link": [2298, 0], "path": ["/lib64/ld-linux-x86-64.so.2"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_LOADLIBRARY", "FILE_OBJECT_FILE"]}
+{"link": [2298, 452], "path": ["/bin/readlink"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_LOADLIBRARY", "FILE_OBJECT_FILE"]}
+{"link": [2298, 2], "path": ["/etc/ld.so.cache"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [2298, 2], "path": ["/etc/ld.so.cache"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"]}
+{"link": [2298, 2], "path": ["/etc/ld.so.cache"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [2298, 7], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [2298, 7], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [2298, 6541], "path": "null", "label": [["PT6", "PT97"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [2298, 7], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"]}
+{"link": [2298, 6543], "path": "null", "label": [["PT6", "PT97"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [2298, 7], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"]}
+{"link": [2298, 6545], "path": "null", "label": [["PT6", "PT97"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [2298, 7], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [2298, 6546], "path": "null", "label": [["PT6", "PT97"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [2298, 6547], "path": "null", "label": [["PT6", "PT97"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [2298, 6548], "path": "null", "label": [["PT6", "PT97"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [2298, 6549], "path": "null", "label": [["PT6", "PT97"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [2298, 6550], "path": "null", "label": [["PT6", "PT97"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [2298, 1523], "path": "null", "label": [["PT6", "PT97"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_WRITE", "IPC_OBJECT_PIPE_UNNAMED"]}
+{"link": [2298, 1523], "path": "null", "label": [["PT6", "PT97"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"]}
+{"link": [2298, 42], "path": ["/dev/null"], "label": [["PT6", "PT97"], ["FT1"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_CHAR"]}
+{"link": [2298, 2298], "path": "null", "label": [["PT6", "PT97"], ["PT6", "PT97"]], "type": ["SUBJECT_PROCESS", "EVENT_EXIT", "SUBJECT_PROCESS"]}

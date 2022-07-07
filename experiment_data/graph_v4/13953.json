@@ -1,0 +1,8 @@
+{"link": [1918, 328], "path": "null", "label": [["PT97"], ["NT0"]], "type": ["SUBJECT_PROCESS", "EVENT_WRITE", "RECORD_NET_FLOW_OBJECT"]}
+{"link": [1918, 328], "path": "null", "label": [["PT97"], ["NT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "RECORD_NET_FLOW_OBJECT"]}
+{"link": [1918, 328], "path": "null", "label": [["PT97"], ["NT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "RECORD_NET_FLOW_OBJECT"]}
+{"link": [1918, 328], "path": "null", "label": [["PT97"], ["NT0"]], "type": ["SUBJECT_PROCESS", "EVENT_WRITE", "RECORD_NET_FLOW_OBJECT"]}
+{"link": [1918, 328], "path": "null", "label": [["PT97"], ["NT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "RECORD_NET_FLOW_OBJECT"]}
+{"link": [1918, 328], "path": "null", "label": [["PT97"], ["NT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "RECORD_NET_FLOW_OBJECT"]}
+{"link": [1918, 328], "path": "null", "label": [["PT97"], ["NT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "RECORD_NET_FLOW_OBJECT"]}
+{"link": [1918, 1918], "path": "null", "label": [["PT97"], ["PT97"]], "type": ["SUBJECT_PROCESS", "EVENT_EXIT", "SUBJECT_PROCESS"]}

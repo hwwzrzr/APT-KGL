@@ -1,0 +1,6 @@
+{"link": [74, 0], "path": ["/lib64/ld-linux-x86-64.so.2"], "label": [["PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_LOADLIBRARY", "FILE_OBJECT_FILE"]}
+{"link": [74, 1491], "path": "null", "label": [["PT97"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [74, 1492], "path": "null", "label": [["PT97"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [74, 1493], "path": "null", "label": [["PT97"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [74, 1494], "path": "null", "label": [["PT97"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [74, 43], "path": "null", "label": [["PT97"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"]}

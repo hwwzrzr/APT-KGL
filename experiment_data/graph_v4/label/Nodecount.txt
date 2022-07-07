@@ -1,0 +1,6 @@
+nodenum = 13478
+IPCnum = 8334
+filenum = 4782
+memnum = 14643
+netnum = 373
+socketnum = 4

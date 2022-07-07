@@ -1,0 +1,14 @@
+{"link": [2399, 7531], "path": "null", "label": [["PT0"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [2399, 7532], "path": "null", "label": [["PT0"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [2399, 7533], "path": "null", "label": [["PT0"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [2399, 7534], "path": "null", "label": [["PT0"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [2399, 7535], "path": "null", "label": [["PT0"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [2399, 7536], "path": "null", "label": [["PT0"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [2399, 7537], "path": "null", "label": [["PT0"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [2399, 7538], "path": "null", "label": [["PT0"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [2399, 7539], "path": "null", "label": [["PT0"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [2399, 11], "path": ["/proc/filesystems"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [2399, 11], "path": ["/proc/filesystems"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [2399, 11], "path": ["/proc/filesystems"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [2399, 11], "path": ["/proc/filesystems"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [2399, 2399], "path": "null", "label": [["PT0"], ["PT0"]], "type": ["SUBJECT_PROCESS", "EVENT_EXIT", "SUBJECT_PROCESS"]}

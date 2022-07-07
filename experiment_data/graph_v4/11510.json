@@ -1,0 +1,2 @@
+{"link": [11214, 807], "path": ["/usr/share/man/man1/dash.1.gz"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [11214, 6948], "path": "null", "label": [["PT0"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"]}

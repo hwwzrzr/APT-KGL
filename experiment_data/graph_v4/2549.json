@@ -1,0 +1,27 @@
+{"link": [2332, 0], "path": ["/lib64/ld-linux-x86-64.so.2"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_LOADLIBRARY", "FILE_OBJECT_FILE"]}
+{"link": [2332, 486], "path": ["/bin/cat"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_LOADLIBRARY", "FILE_OBJECT_FILE"]}
+{"link": [2332, 2], "path": ["/etc/ld.so.cache"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [2332, 2], "path": ["/etc/ld.so.cache"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"]}
+{"link": [2332, 2], "path": ["/etc/ld.so.cache"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [2332, 7], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [2332, 7], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [2332, 6991], "path": "null", "label": [["PT6", "PT97"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [2332, 7], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"]}
+{"link": [2332, 6993], "path": "null", "label": [["PT6", "PT97"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [2332, 7], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"]}
+{"link": [2332, 6995], "path": "null", "label": [["PT6", "PT97"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [2332, 7], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [2332, 6996], "path": "null", "label": [["PT6", "PT97"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [2332, 6997], "path": "null", "label": [["PT6", "PT97"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [2332, 6998], "path": "null", "label": [["PT6", "PT97"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [2332, 6999], "path": "null", "label": [["PT6", "PT97"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [2332, 7000], "path": "null", "label": [["PT6", "PT97"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [2332, 457], "path": ["/etc/apt/trusted.gpg.d/webupd8team_ubuntu_java.gpg"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [2332, 7001], "path": "null", "label": [["PT6", "PT97"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [2332, 457], "path": ["/etc/apt/trusted.gpg.d/webupd8team_ubuntu_java.gpg"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [2332, 2230], "path": ["/tmp/tmp.UAcSrZacwU/pubring.gpg"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_WRITE", "FILE_OBJECT_FILE"]}
+{"link": [2332, 457], "path": ["/etc/apt/trusted.gpg.d/webupd8team_ubuntu_java.gpg"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [2332, 457], "path": ["/etc/apt/trusted.gpg.d/webupd8team_ubuntu_java.gpg"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [2332, 2230], "path": ["/tmp/tmp.UAcSrZacwU/pubring.gpg"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [2332, 42], "path": ["/dev/null"], "label": [["PT6", "PT97"], ["FT1"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_CHAR"]}
+{"link": [2332, 2332], "path": "null", "label": [["PT6", "PT97"], ["PT6", "PT97"]], "type": ["SUBJECT_PROCESS", "EVENT_EXIT", "SUBJECT_PROCESS"]}

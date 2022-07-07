@@ -1,0 +1,15 @@
+{"link": [2239, 435], "path": ["/etc/dpkg/dpkg.cfg.d"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_DIR"]}
+{"link": [2239, 435], "path": ["/etc/dpkg/dpkg.cfg.d"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_DIR"]}
+{"link": [2239, 436], "path": ["/etc/dpkg/dpkg.cfg.d/pkg-config-hook-config"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [2239, 436], "path": ["/etc/dpkg/dpkg.cfg.d/pkg-config-hook-config"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [2239, 436], "path": ["/etc/dpkg/dpkg.cfg.d/pkg-config-hook-config"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [2239, 436], "path": ["/etc/dpkg/dpkg.cfg.d/pkg-config-hook-config"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [2239, 437], "path": ["/etc/dpkg/dpkg.cfg"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [2239, 437], "path": ["/etc/dpkg/dpkg.cfg"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [2239, 437], "path": ["/etc/dpkg/dpkg.cfg"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [2239, 437], "path": ["/etc/dpkg/dpkg.cfg"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [2239, 438], "path": ["/var/lib/dpkg/arch"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [2239, 438], "path": ["/var/lib/dpkg/arch"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [2239, 438], "path": ["/var/lib/dpkg/arch"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [2239, 438], "path": ["/var/lib/dpkg/arch"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [2239, 2239], "path": "null", "label": [["PT0"], ["PT0"]], "type": ["SUBJECT_PROCESS", "EVENT_EXIT", "SUBJECT_PROCESS"]}

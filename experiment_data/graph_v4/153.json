@@ -1,0 +1,5 @@
+{"link": [97, 488], "path": ["/proc/26390/fd"], "label": [["PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_DIR"]}
+{"link": [97, 488], "path": ["/proc/26390/fd"], "label": [["PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_DIR"]}
+{"link": [97, 42], "path": ["/dev/null"], "label": [["PT97"], ["FT1"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_CHAR"]}
+{"link": [97, 53], "path": "null", "label": [["PT97"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"]}
+{"link": [97, 97], "path": "null", "label": [["PT97"], ["PT97"]], "type": ["SUBJECT_PROCESS", "EVENT_EXECUTE", "SUBJECT_PROCESS"]}

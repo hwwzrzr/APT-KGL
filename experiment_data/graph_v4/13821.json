@@ -1,0 +1,27 @@
+{"link": [13386, 0], "path": ["/lib64/ld-linux-x86-64.so.2"], "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_LOADLIBRARY", "FILE_OBJECT_FILE"]}
+{"link": [13386, 470], "path": ["/bin/sh"], "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_LOADLIBRARY", "FILE_OBJECT_FILE"]}
+{"link": [13386, 2], "path": ["/etc/ld.so.cache"], "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [13386, 2], "path": ["/etc/ld.so.cache"], "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"]}
+{"link": [13386, 2], "path": ["/etc/ld.so.cache"], "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [13386, 7], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [13386, 7], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [13386, 13013], "path": "null", "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [13386, 7], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"]}
+{"link": [13386, 13015], "path": "null", "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [13386, 7], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"]}
+{"link": [13386, 13017], "path": "null", "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [13386, 7], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [13386, 13018], "path": "null", "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [13386, 13019], "path": "null", "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [13386, 13020], "path": "null", "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [13386, 13021], "path": "null", "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [13386, 13022], "path": "null", "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [13386, 13387], "path": "null", "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"]], "type": ["SUBJECT_PROCESS", "EVENT_FORK", "SUBJECT_PROCESS"]}
+{"link": [13386, 4685], "path": ["/phpstudy/www/DVWA/hackable"], "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_DIR"]}
+{"link": [13386, 4685], "path": ["/phpstudy/www/DVWA/hackable"], "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_DIR"]}
+{"link": [13386, 8272], "path": "null", "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_WRITE", "IPC_OBJECT_PIPE_UNNAMED"]}
+{"link": [13386, 8272], "path": "null", "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_WRITE", "IPC_OBJECT_PIPE_UNNAMED"]}
+{"link": [13386, 4685], "path": ["/phpstudy/www/DVWA/hackable"], "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_DIR"]}
+{"link": [13386, 4685], "path": ["/phpstudy/www/DVWA/hackable"], "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_DIR"]}
+{"link": [13386, 8272], "path": "null", "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_WRITE", "IPC_OBJECT_PIPE_UNNAMED"]}
+{"link": [13386, 13386], "path": "null", "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"]], "type": ["SUBJECT_PROCESS", "EVENT_EXIT", "SUBJECT_PROCESS"]}

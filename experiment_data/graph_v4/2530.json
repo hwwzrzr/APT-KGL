@@ -1,0 +1,23 @@
+{"link": [2319, 0], "path": ["/lib64/ld-linux-x86-64.so.2"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_LOADLIBRARY", "FILE_OBJECT_FILE"]}
+{"link": [2319, 2], "path": ["/etc/ld.so.cache"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [2319, 2], "path": ["/etc/ld.so.cache"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"]}
+{"link": [2319, 2], "path": ["/etc/ld.so.cache"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [2319, 4], "path": ["/lib/x86_64-linux-gnu/libselinux.so.1"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [2319, 4], "path": ["/lib/x86_64-linux-gnu/libselinux.so.1"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [2319, 6770], "path": "null", "label": [["PT6", "PT97"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [2319, 4], "path": ["/lib/x86_64-linux-gnu/libselinux.so.1"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [2319, 4], "path": ["/lib/x86_64-linux-gnu/libselinux.so.1"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [2319, 436], "path": ["/etc/dpkg/dpkg.cfg.d/pkg-config-hook-config"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [2319, 436], "path": ["/etc/dpkg/dpkg.cfg.d/pkg-config-hook-config"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [2319, 436], "path": ["/etc/dpkg/dpkg.cfg.d/pkg-config-hook-config"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [2319, 436], "path": ["/etc/dpkg/dpkg.cfg.d/pkg-config-hook-config"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [2319, 437], "path": ["/etc/dpkg/dpkg.cfg"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [2319, 437], "path": ["/etc/dpkg/dpkg.cfg"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [2319, 437], "path": ["/etc/dpkg/dpkg.cfg"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [2319, 437], "path": ["/etc/dpkg/dpkg.cfg"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [2319, 438], "path": ["/var/lib/dpkg/arch"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [2319, 438], "path": ["/var/lib/dpkg/arch"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [2319, 438], "path": ["/var/lib/dpkg/arch"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [2319, 438], "path": ["/var/lib/dpkg/arch"], "label": [["PT6", "PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [2319, 1535], "path": "null", "label": [["PT6", "PT97"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_WRITE", "IPC_OBJECT_PIPE_UNNAMED"]}
+{"link": [2319, 2319], "path": "null", "label": [["PT6", "PT97"], ["PT6", "PT97"]], "type": ["SUBJECT_PROCESS", "EVENT_EXIT", "SUBJECT_PROCESS"]}

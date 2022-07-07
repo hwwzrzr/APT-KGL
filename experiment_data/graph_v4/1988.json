@@ -1,0 +1,8 @@
+{"link": [1904, 2002], "path": ["/usr/share/man/man3/pcre_get_substring_list.3.gz"], "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [1904, 1302], "path": "null", "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"]}
+{"link": [1904, 1302], "path": "null", "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"]}
+{"link": [1904, 2002], "path": ["/usr/share/man/man3/pcre_get_substring_list.3.gz"], "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [1904, 2002], "path": ["/usr/share/man/man3/pcre_get_substring_list.3.gz"], "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [1904, 2002], "path": ["/usr/share/man/man3/pcre_get_substring_list.3.gz"], "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [1904, 1302], "path": "null", "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_WRITE", "IPC_OBJECT_PIPE_UNNAMED"]}
+{"link": [1904, 1904], "path": "null", "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"]], "type": ["SUBJECT_PROCESS", "EVENT_EXIT", "SUBJECT_PROCESS"]}

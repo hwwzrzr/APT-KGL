@@ -1,0 +1,27 @@
+{"link": [1911, 0], "path": ["/lib64/ld-linux-x86-64.so.2"], "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_LOADLIBRARY", "FILE_OBJECT_FILE"]}
+{"link": [1911, 4731], "path": ["/bin/ping"], "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_LOADLIBRARY", "FILE_OBJECT_FILE"]}
+{"link": [1911, 2], "path": ["/etc/ld.so.cache"], "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [1911, 2], "path": ["/etc/ld.so.cache"], "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"]}
+{"link": [1911, 2], "path": ["/etc/ld.so.cache"], "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [1911, 4732], "path": ["/lib/x86_64-linux-gnu/libcap.so.2"], "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [1911, 4732], "path": ["/lib/x86_64-linux-gnu/libcap.so.2"], "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [1911, 13856], "path": "null", "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [1911, 4732], "path": ["/lib/x86_64-linux-gnu/libcap.so.2"], "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"]}
+{"link": [1911, 13858], "path": "null", "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [1911, 4732], "path": ["/lib/x86_64-linux-gnu/libcap.so.2"], "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"]}
+{"link": [1911, 4732], "path": ["/lib/x86_64-linux-gnu/libcap.so.2"], "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [1911, 7], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [1911, 7], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [1911, 7], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"]}
+{"link": [1911, 13861], "path": "null", "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [1911, 7], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"]}
+{"link": [1911, 13863], "path": "null", "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [1911, 7], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [1911, 13864], "path": "null", "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [1911, 13865], "path": "null", "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [1911, 13866], "path": "null", "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [1911, 13867], "path": "null", "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [1911, 13868], "path": "null", "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [1911, 13869], "path": "null", "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [1911, 13870], "path": "null", "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [1911, 1911], "path": "null", "label": [["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["PT7", "PT6", "PT96", "PT98", "PT97", "PT1", "PT3"]], "type": ["SUBJECT_PROCESS", "EVENT_CHANGE_PRINCIPAL", "SUBJECT_PROCESS"]}

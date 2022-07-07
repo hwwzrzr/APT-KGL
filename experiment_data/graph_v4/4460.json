@@ -1,0 +1,2 @@
+{"link": [4195, 2790], "path": ["/usr/share/man/man3/strcasecmp.3.gz"], "label": [["PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [4195, 2790], "path": ["/usr/share/man/man3/strcasecmp.3.gz"], "label": [["PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}

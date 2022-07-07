@@ -1,0 +1,4 @@
+{"link": [13468, 8314], "path": "null", "label": [["PT97", "PT3"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"]}
+{"link": [13468, 8314], "path": "null", "label": [["PT97", "PT3"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"]}
+{"link": [13468, 8314], "path": "null", "label": [["PT97", "PT3"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_WRITE", "IPC_OBJECT_PIPE_UNNAMED"]}
+{"link": [13468, 13468], "path": "null", "label": [["PT97", "PT3"], ["PT97", "PT3"]], "type": ["SUBJECT_PROCESS", "EVENT_EXIT", "SUBJECT_PROCESS"]}

@@ -1,0 +1,4 @@
+{"link": [1888, 1999], "path": ["/usr/share/man/man3/pcre16.3.gz"], "label": [["PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [1888, 1293], "path": "null", "label": [["PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"]}
+{"link": [1888, 1293], "path": "null", "label": [["PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"]}
+{"link": [1888, 1999], "path": ["/usr/share/man/man3/pcre16.3.gz"], "label": [["PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}

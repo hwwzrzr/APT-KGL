@@ -1,0 +1,5 @@
+{"link": [2350, 7129], "path": "null", "label": [["PT0"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [2350, 7130], "path": "null", "label": [["PT0"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [2350, 7131], "path": "null", "label": [["PT0"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [2350, 2233], "path": ["/tmp/tmp.fk3D4ZODe2"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MODIFY_FILE_ATTRIBUTES", "FILE_OBJECT_DIR"]}
+{"link": [2350, 2350], "path": "null", "label": [["PT0"], ["PT0"]], "type": ["SUBJECT_PROCESS", "EVENT_EXIT", "SUBJECT_PROCESS"]}

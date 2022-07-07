@@ -1,0 +1,8 @@
+{"link": [148, 431], "path": ["/etc/apt/apt.conf.d/70debconf"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [148, 431], "path": ["/etc/apt/apt.conf.d/70debconf"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [148, 431], "path": ["/etc/apt/apt.conf.d/70debconf"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [148, 431], "path": ["/etc/apt/apt.conf.d/70debconf"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [148, 432], "path": ["/var/lib/apt/lists/"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_DIR"]}
+{"link": [148, 432], "path": ["/var/lib/apt/lists/"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_DIR"]}
+{"link": [148, 149], "path": "null", "label": [["PT0"], ["PT97"]], "type": ["SUBJECT_PROCESS", "EVENT_FORK", "SUBJECT_PROCESS"]}
+{"link": [148, 66], "path": "null", "label": [["PT0"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"]}

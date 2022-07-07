@@ -1,0 +1,2 @@
+{"link": [6226, 3058], "path": ["/usr/share/man/man3/SSL_CTX_sess_set_get_cb.3ssl.gz"], "label": [["PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [6226, 6226], "path": "null", "label": [["PT97"], ["PT97"]], "type": ["SUBJECT_PROCESS", "EVENT_EXIT", "SUBJECT_PROCESS"]}

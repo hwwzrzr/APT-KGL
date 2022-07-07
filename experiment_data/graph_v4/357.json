@@ -1,0 +1,2 @@
+{"link": [283, 49], "path": ["/usr/lib/x86_64-linux-gnu/gconv/gconv-modules.cache"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [283, 2291], "path": "null", "label": [["PT0"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}

@@ -1,0 +1,6 @@
+{"link": [2365, 2366], "path": "null", "label": [["PT0"], ["PT97"]], "type": ["SUBJECT_PROCESS", "EVENT_FORK", "SUBJECT_PROCESS"]}
+{"link": [2365, 2373], "path": "null", "label": [["PT0"], ["PT6", "PT97"]], "type": ["SUBJECT_PROCESS", "EVENT_FORK", "SUBJECT_PROCESS"]}
+{"link": [2365, 2243], "path": ["/tmp/tmp.CJtp6J1RpQ/pubring.gpg"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [2365, 2243], "path": ["/tmp/tmp.CJtp6J1RpQ/pubring.gpg"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [2365, 2380], "path": "null", "label": [["PT0"], ["PT97"]], "type": ["SUBJECT_PROCESS", "EVENT_FORK", "SUBJECT_PROCESS"]}
+{"link": [2365, 2365], "path": "null", "label": [["PT0"], ["PT0"]], "type": ["SUBJECT_PROCESS", "EVENT_EXIT", "SUBJECT_PROCESS"]}
