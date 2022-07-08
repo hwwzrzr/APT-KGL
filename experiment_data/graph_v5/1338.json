@@ -1,0 +1,2 @@
+{"link": [14559, 5647], "path": ["/tmp/sh-thd-887645452"], "label": [["PT3"], ["FT1"]], "type": ["SUBJECT_PROCESS", "EVENT_CREATE_OBJECT", "FILE_OBJECT_FILE"]}
+{"link": [14559, 5647], "path": ["/tmp/sh-thd-887645452"], "label": [["PT3"], ["FT1"]], "type": ["SUBJECT_PROCESS", "EVENT_WRITE", "FILE_OBJECT_FILE"]}

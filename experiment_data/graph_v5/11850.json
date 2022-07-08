@@ -1,0 +1,2 @@
+{"link": [22069, 4785], "path": ["/lib64/ld-linux-x86-64.so.2"], "label": [["PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_LOADLIBRARY", "FILE_OBJECT_FILE"]}
+{"link": [22069, 4821], "path": ["/usr/bin/awk"], "label": [["PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_LOADLIBRARY", "FILE_OBJECT_FILE"]}

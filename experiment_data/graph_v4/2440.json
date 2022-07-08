@@ -1,0 +1,9 @@
+{"link": [2264, 2176], "path": ["/tmp/tmp.FYB2zIYrmc"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_DIR"]}
+{"link": [2264, 2176], "path": ["/tmp/tmp.FYB2zIYrmc"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_DIR"]}
+{"link": [2264, 2177], "path": ["/tmp/tmp.FYB2zIYrmc/gpg.1.sh"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_UNLINK", "FILE_OBJECT_FILE"]}
+{"link": [2264, 2175], "path": ["/tmp/tmp.FYB2zIYrmc/pubring.orig.gpg"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_UPDATE", "FILE_OBJECT_FILE"]}
+{"link": [2264, 2175], "path": ["/tmp/tmp.FYB2zIYrmc/pubring.orig.gpg"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_UNLINK", "FILE_OBJECT_FILE"]}
+{"link": [2264, 2178], "path": ["/tmp/tmp.FYB2zIYrmc/pubring.gpg"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_UNLINK", "FILE_OBJECT_FILE"]}
+{"link": [2264, 2176], "path": ["/tmp/tmp.FYB2zIYrmc"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_DIR"]}
+{"link": [2264, 2176], "path": ["/tmp/tmp.FYB2zIYrmc"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_UNLINK", "FILE_OBJECT_DIR"]}
+{"link": [2264, 2264], "path": "null", "label": [["PT0"], ["PT0"]], "type": ["SUBJECT_PROCESS", "EVENT_EXIT", "SUBJECT_PROCESS"]}

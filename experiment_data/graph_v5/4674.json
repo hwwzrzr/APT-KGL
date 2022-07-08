@@ -1,0 +1,2 @@
+{"link": [17069, 7242], "path": ["/tmp/sh-thd-5999901414605330713"], "label": [["PT6", "PT96", "PT97", "PT93", "PT3"], ["FT1"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [17069, 9518], "path": "null", "label": [["PT6", "PT96", "PT97", "PT93", "PT3"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"]}

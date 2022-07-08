@@ -1,0 +1,7 @@
+{"link": [19365, 46769], "path": "null", "label": [["PT6", "PT96", "PT98", "PT97", "PT93", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [19365, 46770], "path": "null", "label": [["PT6", "PT96", "PT98", "PT97", "PT93", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [19365, 46771], "path": "null", "label": [["PT6", "PT96", "PT98", "PT97", "PT93", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [19365, 46772], "path": "null", "label": [["PT6", "PT96", "PT98", "PT97", "PT93", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [19365, 7665], "path": ["/tmp/sh-thd-14570655562180379524"], "label": [["PT6", "PT96", "PT98", "PT97", "PT93", "PT3"], ["FT1"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [19365, 7665], "path": ["/tmp/sh-thd-14570655562180379524"], "label": [["PT6", "PT96", "PT98", "PT97", "PT93", "PT3"], ["FT1"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [19365, 10353], "path": "null", "label": [["PT6", "PT96", "PT98", "PT97", "PT93", "PT3"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"]}

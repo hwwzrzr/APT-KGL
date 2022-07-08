@@ -1,0 +1,10 @@
+{"link": [13659, 4785], "path": ["/lib64/ld-linux-x86-64.so.2"], "label": [["PT96", "PT97", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_LOADLIBRARY", "FILE_OBJECT_FILE"]}
+{"link": [13659, 4809], "path": ["/bin/cat"], "label": [["PT96", "PT97", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_LOADLIBRARY", "FILE_OBJECT_FILE"]}
+{"link": [13659, 4787], "path": ["/etc/ld.so.cache"], "label": [["PT96", "PT97", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [13659, 4787], "path": ["/etc/ld.so.cache"], "label": [["PT96", "PT97", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"]}
+{"link": [13659, 4787], "path": ["/etc/ld.so.cache"], "label": [["PT96", "PT97", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [13659, 15760], "path": "null", "label": [["PT96", "PT97", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [13659, 15761], "path": "null", "label": [["PT96", "PT97", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [13659, 15763], "path": "null", "label": [["PT96", "PT97", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [13659, 15764], "path": "null", "label": [["PT96", "PT97", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [13659, 15765], "path": "null", "label": [["PT96", "PT97", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}

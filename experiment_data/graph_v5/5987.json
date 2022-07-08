@@ -1,0 +1,13 @@
+{"link": [18095, 37290], "path": "null", "label": [["PT6", "PT96", "PT98", "PT97", "PT93", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [18095, 37292], "path": "null", "label": [["PT6", "PT96", "PT98", "PT97", "PT93", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [18095, 37293], "path": "null", "label": [["PT6", "PT96", "PT98", "PT97", "PT93", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [18095, 37294], "path": "null", "label": [["PT6", "PT96", "PT98", "PT97", "PT93", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [18095, 37295], "path": "null", "label": [["PT6", "PT96", "PT98", "PT97", "PT93", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [18095, 37296], "path": "null", "label": [["PT6", "PT96", "PT98", "PT97", "PT93", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [18095, 37297], "path": "null", "label": [["PT6", "PT96", "PT98", "PT97", "PT93", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [18095, 37298], "path": "null", "label": [["PT6", "PT96", "PT98", "PT97", "PT93", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [18095, 37299], "path": "null", "label": [["PT6", "PT96", "PT98", "PT97", "PT93", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [18095, 7336], "path": ["/tmp/sh-thd-16516328309934859756"], "label": [["PT6", "PT96", "PT98", "PT97", "PT93", "PT3"], ["FT1"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [18095, 7336], "path": ["/tmp/sh-thd-16516328309934859756"], "label": [["PT6", "PT96", "PT98", "PT97", "PT93", "PT3"], ["FT1"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [18095, 9849], "path": "null", "label": [["PT6", "PT96", "PT98", "PT97", "PT93", "PT3"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_WRITE", "IPC_OBJECT_PIPE_UNNAMED"]}
+{"link": [18095, 9849], "path": "null", "label": [["PT6", "PT96", "PT98", "PT97", "PT93", "PT3"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"]}

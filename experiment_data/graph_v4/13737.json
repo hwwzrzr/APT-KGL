@@ -1,0 +1,14 @@
+{"link": [13362, 252], "path": "null", "label": [["PT0"], ["NT0"]], "type": ["SUBJECT_PROCESS", "EVENT_WRITE", "RECORD_NET_FLOW_OBJECT"]}
+{"link": [13362, 252], "path": "null", "label": [["PT0"], ["NT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "RECORD_NET_FLOW_OBJECT"]}
+{"link": [13362, 252], "path": "null", "label": [["PT0"], ["NT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "RECORD_NET_FLOW_OBJECT"]}
+{"link": [13362, 252], "path": "null", "label": [["PT0"], ["NT0"]], "type": ["SUBJECT_PROCESS", "EVENT_WRITE", "RECORD_NET_FLOW_OBJECT"]}
+{"link": [13362, 252], "path": "null", "label": [["PT0"], ["NT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "RECORD_NET_FLOW_OBJECT"]}
+{"link": [13362, 252], "path": "null", "label": [["PT0"], ["NT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "RECORD_NET_FLOW_OBJECT"]}
+{"link": [13362, 252], "path": "null", "label": [["PT0"], ["NT0"]], "type": ["SUBJECT_PROCESS", "EVENT_WRITE", "RECORD_NET_FLOW_OBJECT"]}
+{"link": [13362, 252], "path": "null", "label": [["PT0"], ["NT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "RECORD_NET_FLOW_OBJECT"]}
+{"link": [13362, 252], "path": "null", "label": [["PT0"], ["NT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "RECORD_NET_FLOW_OBJECT"]}
+{"link": [13362, 252], "path": "null", "label": [["PT0"], ["NT0"]], "type": ["SUBJECT_PROCESS", "EVENT_WRITE", "RECORD_NET_FLOW_OBJECT"]}
+{"link": [13362, 252], "path": "null", "label": [["PT0"], ["NT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "RECORD_NET_FLOW_OBJECT"]}
+{"link": [13362, 252], "path": "null", "label": [["PT0"], ["NT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "RECORD_NET_FLOW_OBJECT"]}
+{"link": [13362, 252], "path": "null", "label": [["PT0"], ["NT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "RECORD_NET_FLOW_OBJECT"]}
+{"link": [13362, 13362], "path": "null", "label": [["PT0"], ["PT0"]], "type": ["SUBJECT_PROCESS", "EVENT_EXIT", "SUBJECT_PROCESS"]}

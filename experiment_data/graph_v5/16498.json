@@ -1,0 +1,12 @@
+{"link": [25611, 4785], "path": ["/lib64/ld-linux-x86-64.so.2"], "label": [["PT6", "PT96", "PT98", "PT97", "PT93", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_LOADLIBRARY", "FILE_OBJECT_FILE"]}
+{"link": [25611, 4810], "path": ["/bin/chmod"], "label": [["PT6", "PT96", "PT98", "PT97", "PT93", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_LOADLIBRARY", "FILE_OBJECT_FILE"]}
+{"link": [25611, 86830], "path": "null", "label": [["PT6", "PT96", "PT98", "PT97", "PT93", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [25611, 86832], "path": "null", "label": [["PT6", "PT96", "PT98", "PT97", "PT93", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [25611, 86834], "path": "null", "label": [["PT6", "PT96", "PT98", "PT97", "PT93", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [25611, 86835], "path": "null", "label": [["PT6", "PT96", "PT98", "PT97", "PT93", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [25611, 86836], "path": "null", "label": [["PT6", "PT96", "PT98", "PT97", "PT93", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [25611, 86837], "path": "null", "label": [["PT6", "PT96", "PT98", "PT97", "PT93", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [25611, 86838], "path": "null", "label": [["PT6", "PT96", "PT98", "PT97", "PT93", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [25611, 86839], "path": "null", "label": [["PT6", "PT96", "PT98", "PT97", "PT93", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [25611, 4811], "path": ["/var/www/html/web3/WordPress-4.6.18/wp-content/uploads/slideshow-gallery/les.sh"], "label": [["PT6", "PT96", "PT98", "PT97", "PT93", "PT3"], ["FT99"]], "type": ["SUBJECT_PROCESS", "EVENT_MODIFY_FILE_ATTRIBUTES", "FILE_OBJECT_FILE"]}
+{"link": [25611, 12637], "path": "null", "label": [["PT6", "PT96", "PT98", "PT97", "PT93", "PT3"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"]}

@@ -1,0 +1,14 @@
+{"link": [13655, 4816], "path": ["/tmp/sh-thd-887644009"], "label": [["PT6", "PT96", "PT97", "PT93", "PT3"], ["FT1"]], "type": ["SUBJECT_PROCESS", "EVENT_CREATE_OBJECT", "FILE_OBJECT_FILE"]}
+{"link": [13655, 4816], "path": ["/tmp/sh-thd-887644009"], "label": [["PT6", "PT96", "PT97", "PT93", "PT3"], ["FT1"]], "type": ["SUBJECT_PROCESS", "EVENT_WRITE", "FILE_OBJECT_FILE"]}
+{"link": [13655, 4816], "path": ["/tmp/sh-thd-887644009"], "label": [["PT6", "PT96", "PT97", "PT93", "PT3"], ["FT1"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [13655, 4787], "path": ["/etc/ld.so.cache"], "label": [["PT6", "PT96", "PT97", "PT93", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [13655, 4787], "path": ["/etc/ld.so.cache"], "label": [["PT6", "PT96", "PT97", "PT93", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"]}
+{"link": [13655, 4787], "path": ["/etc/ld.so.cache"], "label": [["PT6", "PT96", "PT97", "PT93", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [13655, 4788], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT6", "PT96", "PT97", "PT93", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [13655, 4788], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT6", "PT96", "PT97", "PT93", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [13655, 15748], "path": "null", "label": [["PT6", "PT96", "PT97", "PT93", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [13655, 4788], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT6", "PT96", "PT97", "PT93", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [13655, 15749], "path": "null", "label": [["PT6", "PT96", "PT97", "PT93", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [13655, 15750], "path": "null", "label": [["PT6", "PT96", "PT97", "PT93", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [13655, 15751], "path": "null", "label": [["PT6", "PT96", "PT97", "PT93", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [13655, 4812], "path": ["/var/www/html/web3/WordPress-4.6.18/wp-content/uploads/slideshow-gallery/1"], "label": [["PT6", "PT96", "PT97", "PT93", "PT3"], ["FT1", "FT99"]], "type": ["SUBJECT_PROCESS", "EVENT_WRITE", "FILE_OBJECT_FILE"]}

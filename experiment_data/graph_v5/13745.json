@@ -1,0 +1,11 @@
+{"link": [23557, 4785], "path": ["/lib64/ld-linux-x86-64.so.2"], "label": [["PT6", "PT96", "PT97", "PT93", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_LOADLIBRARY", "FILE_OBJECT_FILE"]}
+{"link": [23557, 4824], "path": ["/bin/sed"], "label": [["PT6", "PT96", "PT97", "PT93", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_LOADLIBRARY", "FILE_OBJECT_FILE"]}
+{"link": [23557, 4787], "path": ["/etc/ld.so.cache"], "label": [["PT6", "PT96", "PT97", "PT93", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [23557, 4787], "path": ["/etc/ld.so.cache"], "label": [["PT6", "PT96", "PT97", "PT93", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"]}
+{"link": [23557, 4787], "path": ["/etc/ld.so.cache"], "label": [["PT6", "PT96", "PT97", "PT93", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [23557, 4825], "path": ["/lib/x86_64-linux-gnu/libselinux.so.1"], "label": [["PT6", "PT96", "PT97", "PT93", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [23557, 4825], "path": ["/lib/x86_64-linux-gnu/libselinux.so.1"], "label": [["PT6", "PT96", "PT97", "PT93", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [23557, 11848], "path": "null", "label": [["PT6", "PT96", "PT97", "PT93", "PT3"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "IPC_OBJECT_PIPE_UNNAMED"]}
+{"link": [23557, 11848], "path": "null", "label": [["PT6", "PT96", "PT97", "PT93", "PT3"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "IPC_OBJECT_PIPE_UNNAMED"]}
+{"link": [23557, 11846], "path": "null", "label": [["PT6", "PT96", "PT97", "PT93", "PT3"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_WRITE", "IPC_OBJECT_PIPE_UNNAMED"]}
+{"link": [23557, 11846], "path": "null", "label": [["PT6", "PT96", "PT97", "PT93", "PT3"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"]}

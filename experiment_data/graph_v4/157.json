@@ -1,0 +1,2 @@
+{"link": [99, 0], "path": ["/lib64/ld-linux-x86-64.so.2"], "label": [["PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_LOADLIBRARY", "FILE_OBJECT_FILE"]}
+{"link": [99, 454], "path": ["/usr/bin/find"], "label": [["PT97"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_LOADLIBRARY", "FILE_OBJECT_FILE"]}

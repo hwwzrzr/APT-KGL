@@ -1,0 +1,6 @@
+{"link": [17822, 4785], "path": ["/lib64/ld-linux-x86-64.so.2"], "label": [["PT97", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_LOADLIBRARY", "FILE_OBJECT_FILE"]}
+{"link": [17822, 5589], "path": ["/usr/bin/head"], "label": [["PT97", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_LOADLIBRARY", "FILE_OBJECT_FILE"]}
+{"link": [17822, 4788], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT97", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [17822, 4788], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT97", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [17822, 36055], "path": "null", "label": [["PT97", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [17822, 9786], "path": "null", "label": [["PT97", "PT3"], ["IT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "IPC_OBJECT_PIPE_UNNAMED"]}

@@ -1,0 +1,2 @@
+{"link": [2312, 2218], "path": ["/tmp/tmp.wjIoPZoHmC"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_UNLINK", "FILE_OBJECT_DIR"]}
+{"link": [2312, 2312], "path": "null", "label": [["PT0"], ["PT0"]], "type": ["SUBJECT_PROCESS", "EVENT_EXIT", "SUBJECT_PROCESS"]}

@@ -1,0 +1,10 @@
+{"link": [18968, 4827], "path": ["/etc/dpkg/dpkg.cfg.d"], "label": [["PT97", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_DIR"]}
+{"link": [18968, 4827], "path": ["/etc/dpkg/dpkg.cfg.d"], "label": [["PT97", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_DIR"]}
+{"link": [18968, 4828], "path": ["/etc/dpkg/dpkg.cfg.d/pkg-config-hook-config"], "label": [["PT97", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [18968, 4828], "path": ["/etc/dpkg/dpkg.cfg.d/pkg-config-hook-config"], "label": [["PT97", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [18968, 4828], "path": ["/etc/dpkg/dpkg.cfg.d/pkg-config-hook-config"], "label": [["PT97", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [18968, 4828], "path": ["/etc/dpkg/dpkg.cfg.d/pkg-config-hook-config"], "label": [["PT97", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [18968, 4829], "path": ["/etc/dpkg/dpkg.cfg"], "label": [["PT97", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [18968, 4829], "path": ["/etc/dpkg/dpkg.cfg"], "label": [["PT97", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [18968, 4829], "path": ["/etc/dpkg/dpkg.cfg"], "label": [["PT97", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [18968, 4829], "path": ["/etc/dpkg/dpkg.cfg"], "label": [["PT97", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}

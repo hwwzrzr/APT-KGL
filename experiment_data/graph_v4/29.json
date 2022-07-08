@@ -1,0 +1,2 @@
+{"link": [18, 42], "path": ["/dev/null"], "label": [["PT0"], ["FT1"]], "type": ["SUBJECT_PROCESS", "EVENT_WRITE", "FILE_OBJECT_CHAR"]}
+{"link": [18, 18], "path": "null", "label": [["PT0"], ["PT0"]], "type": ["SUBJECT_PROCESS", "EVENT_EXIT", "SUBJECT_PROCESS"]}

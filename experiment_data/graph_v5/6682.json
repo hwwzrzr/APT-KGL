@@ -1,0 +1,13 @@
+{"link": [18498, 4785], "path": ["/lib64/ld-linux-x86-64.so.2"], "label": [["PT97", "PT93"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_LOADLIBRARY", "FILE_OBJECT_FILE"]}
+{"link": [18498, 4809], "path": ["/bin/cat"], "label": [["PT97", "PT93"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_LOADLIBRARY", "FILE_OBJECT_FILE"]}
+{"link": [18498, 41462], "path": "null", "label": [["PT97", "PT93"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [18498, 41463], "path": "null", "label": [["PT97", "PT93"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [18498, 41464], "path": "null", "label": [["PT97", "PT93"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [18498, 41465], "path": "null", "label": [["PT97", "PT93"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [18498, 41466], "path": "null", "label": [["PT97", "PT93"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [18498, 41467], "path": "null", "label": [["PT97", "PT93"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [18498, 6186], "path": ["/var/www/html/web3/WordPress-4.6.18/wp-content/uploads/slideshow-gallery/webshell/wp-config.php"], "label": [["PT97", "PT93"], ["FT99"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [18498, 41468], "path": "null", "label": [["PT97", "PT93"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [18498, 6186], "path": ["/var/www/html/web3/WordPress-4.6.18/wp-content/uploads/slideshow-gallery/webshell/wp-config.php"], "label": [["PT97", "PT93"], ["FT99"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [18498, 6186], "path": ["/var/www/html/web3/WordPress-4.6.18/wp-content/uploads/slideshow-gallery/webshell/wp-config.php"], "label": [["PT97", "PT93"], ["FT99"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [18498, 6186], "path": ["/var/www/html/web3/WordPress-4.6.18/wp-content/uploads/slideshow-gallery/webshell/wp-config.php"], "label": [["PT97", "PT93"], ["FT99"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}

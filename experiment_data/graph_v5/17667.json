@@ -1,0 +1,5 @@
+{"link": [26532, 4796], "path": ["/lib/x86_64-linux-gnu/libpthread.so.0"], "label": [["PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [26532, 4796], "path": ["/lib/x86_64-linux-gnu/libpthread.so.0"], "label": [["PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}
+{"link": [26532, 4796], "path": ["/lib/x86_64-linux-gnu/libpthread.so.0"], "label": [["PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"]}
+{"link": [26532, 90698], "path": "null", "label": [["PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [26532, 4796], "path": ["/lib/x86_64-linux-gnu/libpthread.so.0"], "label": [["PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"]}

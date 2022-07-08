@@ -1,0 +1,2 @@
+{"link": [67, 9], "path": ["/lib/x86_64-linux-gnu/libdl.so.2"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [67, 9], "path": ["/lib/x86_64-linux-gnu/libdl.so.2"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"]}

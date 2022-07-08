@@ -1,0 +1,5 @@
+{"link": [2232, 42], "path": ["/dev/null"], "label": [["PT0"], ["FT1"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_CHAR"]}
+{"link": [2232, 2233], "path": "null", "label": [["PT0"], ["PT6", "PT97"]], "type": ["SUBJECT_PROCESS", "EVENT_FORK", "SUBJECT_PROCESS"]}
+{"link": [2232, 2179], "path": ["/tmp/apt.sig.bjExX5"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_UNLINK", "FILE_OBJECT_FILE"]}
+{"link": [2232, 2180], "path": ["/tmp/apt.data.X63awA"], "label": [["PT0"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_UNLINK", "FILE_OBJECT_FILE"]}
+{"link": [2232, 2232], "path": "null", "label": [["PT0"], ["PT0"]], "type": ["SUBJECT_PROCESS", "EVENT_EXIT", "SUBJECT_PROCESS"]}

@@ -1,0 +1,12 @@
+{"link": [69, 1409], "path": ["/run/systemd/netif/.#stateuGvkA3"], "label": [["PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CREATE_OBJECT", "FILE_OBJECT_FILE"]}
+{"link": [69, 1409], "path": ["/run/systemd/netif/.#stateuGvkA3"], "label": [["PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_UPDATE", "FILE_OBJECT_FILE"]}
+{"link": [69, 1409], "path": ["/run/systemd/netif/.#stateuGvkA3"], "label": [["PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MODIFY_FILE_ATTRIBUTES", "FILE_OBJECT_FILE"]}
+{"link": [69, 1409], "path": ["/run/systemd/netif/.#stateuGvkA3"], "label": [["PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_WRITE", "FILE_OBJECT_FILE"]}
+{"link": [69, 1409], "path": ["/run/systemd/netif/.#stateuGvkA3"], "label": [["PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_RENAME", "FILE_OBJECT_FILE"]}
+{"link": [69, 1409], "path": ["/run/systemd/netif/.#stateuGvkA3"], "label": [["PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}
+{"link": [69, 1411], "path": ["/run/systemd/netif/links/.#22KANw6"], "label": [["PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CREATE_OBJECT", "FILE_OBJECT_FILE"]}
+{"link": [69, 1411], "path": ["/run/systemd/netif/links/.#22KANw6"], "label": [["PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_UPDATE", "FILE_OBJECT_FILE"]}
+{"link": [69, 1411], "path": ["/run/systemd/netif/links/.#22KANw6"], "label": [["PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MODIFY_FILE_ATTRIBUTES", "FILE_OBJECT_FILE"]}
+{"link": [69, 1411], "path": ["/run/systemd/netif/links/.#22KANw6"], "label": [["PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_WRITE", "FILE_OBJECT_FILE"]}
+{"link": [69, 1411], "path": ["/run/systemd/netif/links/.#22KANw6"], "label": [["PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_RENAME", "FILE_OBJECT_FILE"]}
+{"link": [69, 1411], "path": ["/run/systemd/netif/links/.#22KANw6"], "label": [["PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"]}

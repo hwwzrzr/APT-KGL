@@ -1,0 +1,10 @@
+{"link": [13683, 4788], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT96", "PT97", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"]}
+{"link": [13683, 15857], "path": "null", "label": [["PT96", "PT97", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [13683, 4788], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT96", "PT97", "PT3"], ["FT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"]}
+{"link": [13683, 15859], "path": "null", "label": [["PT96", "PT97", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [13683, 15860], "path": "null", "label": [["PT96", "PT97", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [13683, 15861], "path": "null", "label": [["PT96", "PT97", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [13683, 15862], "path": "null", "label": [["PT96", "PT97", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [13683, 15863], "path": "null", "label": [["PT96", "PT97", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "RECORD_MEMORY_OBJECT"]}
+{"link": [13683, 15864], "path": "null", "label": [["PT96", "PT97", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
+{"link": [13683, 15865], "path": "null", "label": [["PT96", "PT97", "PT3"], ["MT0"]], "type": ["SUBJECT_PROCESS", "EVENT_MPROTECT", "RECORD_MEMORY_OBJECT"]}
